@@ -1,0 +1,6 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+pydantic==2.6.4
+youtube-transcript-api==0.6.2
+yt-dlp==2024.3.10
+google-genai==2.4.0
